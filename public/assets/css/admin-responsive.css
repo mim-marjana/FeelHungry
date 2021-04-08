@@ -1,0 +1,417 @@
+@media (min-width:1441px) and (max-width:1690px){
+	#admin-main{
+	    width: 100%;
+	    max-width:1550px;
+	    padding:100px 70px;
+	}
+	.navbar .container{
+		width: 100%;
+		max-width:1550px;
+		height: 60px;
+		top:30px;
+	}
+	.navbar .nav li a.active,
+	.navbar .nav li a{
+		padding: 20px 20px;
+	   font-size:17px;
+	}
+	.nav li .subul li a,
+	.right-nav > ul.reg-ul li a {
+	   font-size:17px;
+	}
+	.navbar .navbar-brand img {
+	    width: 85px;
+	    margin-top: 1px;
+	}
+	.right-nav {
+	   top:-2px;
+	}
+	.right-nav .avatar {
+	   width: 55px;
+	   height: 55px;
+	}
+	.admin-galleries-photo .photo {
+	    height:240px;
+	}
+	#messages .message {
+	    padding: 30px 350px 50px 50px;
+	}
+
+}
+@media (min-width:1367px) and (max-width:1440px){
+	#admin-main{
+	    width: 100%;
+	    max-width: 1440px;
+	    padding:100px 70px;
+	}
+	.navbar .container{
+		width: 100%;
+		max-width: 1440px;
+		height: 60px;
+		top:0px;
+	}
+	.navbar .nav li a.active,
+	.navbar .nav li a{
+	    padding: 20px 20px;
+	    font-size:16px;
+	}
+	.navbar .nav li .subul{
+		width: 200px;
+		margin-left: -100px;
+	}
+	.nav li .subul li a,
+	.right-nav > ul.reg-ul li a {
+	   font-size: 16px;
+	}
+	.navbar .navbar-brand img {
+	    width: 85px;
+	    margin-top: 1px;
+	}
+	.right-nav {
+		top:-2px;
+	}
+	.right-nav .avatar {
+	   width: 55px;
+	   height: 55px;
+	}
+	.admin-galleries-photo .photo {
+	    height: 215px;
+	}
+	#messages .message {
+	    padding: 30px 250px 50px 50px;
+	}
+
+}
+
+
+@media (min-width:0px) and (max-width:1280px){
+	.dashboard {
+	    padding: 10px 0px 0px;
+	}
+}
+@media (min-width:0px) and (max-width:1080px){
+	#admin-main{
+		width:100%;
+		padding:80px 40px;
+	}
+	.navbar .container {
+	    top: 0px;
+	    width: 100%;
+	}
+
+	/*Dahsboard*/
+	.inner.intro .details h1 {
+	    font-size: 25px;
+	}
+	.inner.intro .details h2{
+	   font-size: 30px;
+	   margin: 5px 0px;
+	}
+
+
+
+
+	#admin-slider {
+	    padding:0px 20px;
+	}
+	.admin-home-section ul li {
+	    height:160px;
+	}
+	.header-1 {
+	   font-size: 19px;
+	}
+	.form-3-wrapper {
+	    width:85%;
+	    padding:15px 70px 40px;
+	}
+	.admin-review ul li {
+	    width: 270px;
+	    margin:10px 15px;
+	    padding: 15px 20px 10px;
+	}
+	.admin-review ul li p {
+	    font-size: 15px;
+	}
+	.admin-review ul li h2 {
+	    font-weight: 600;
+	    font-size: 13px;
+	    color: #3a3535;
+	    margin-top: 5px;
+	}
+	.admin-review ul li .rating img{
+		width:13px;
+		height: auto;
+	}
+	.admin-review {
+	    padding: 0px 0px 20px;
+	}
+	.team-list li {
+	    width: 235px;
+	}
+	.team-list li .team-photo {
+	   height: 195px;
+	}
+	#team {
+	    text-align: center;
+	    padding: 50px 30px 100px;
+	}
+	.orders {
+	    padding: 0px 10px;
+	 }
+	.table>tbody>tr>td,
+	.table>tbody>tr>th, 
+	.table>tfoot>tr>td,
+	.table>tfoot>tr>th, 
+	.table>thead>tr>td, 
+	.table>thead>tr>th {
+	    padding:8px 15px 8px;
+	    font-size: 14px;
+	}
+	.table tbody tr td .btn-status {
+	    padding: 5px 8px;
+	    font-size: 11px;
+	}
+}
+
+@media (min-width:0px) and (max-width:991px){
+	#admin-main {
+	    width: 100%;
+	    padding:70px 20px 30px;
+	}
+	.inner.intro .details h1 {
+	    font-size: 18px;
+	}
+	.inner.intro .details h2 {
+	    font-size: 26px;
+	}
+	.inner.intro .details h3 {
+	    font-size: 17px;
+	}
+	.inner.time h1 {
+	    font-weight: 300;
+	    font-size:70px;
+	}
+	.inner.time h2 {
+	    display: inline-block;
+	    border-top: 1px solid #fff;
+	    font-size:15px;
+	}
+	.stats .section ul li p {
+	    font-weight: 400;
+	    color: #00c397;
+	    font-size: 30px;
+	}
+	.stats .section ul li h2 {
+	    font-weight: 500;
+	    color: #000;
+	    font-size:16px;
+	}
+	#admin-slider .swiper-slide .content {
+	    padding: 0px 120px;
+	}
+	.admin-home-section ul li {
+	    position: relative;
+	    width: 240px;
+	    display: inline-block;
+	    margin: 25px 10px;
+	}
+	#dish-categories ul li {
+	    padding: 5px 20px 5px 0px;
+	}
+	#dish-categories ul li span {
+	    background: #00c397;
+	    margin-right: 8px;
+	    padding: 6px 12px;
+	 }
+}
+@media (min-width:0px) and (max-width:850px){
+	.navbar .nav li a {
+	    padding: 15px 15px;
+	    font-size: 13px;
+	 }
+	.navbar .nav li a.active {
+	    color: #fff;
+	    background: #00c397;
+	   padding: 15px 15px;
+	}
+	.dash-block {
+	    padding: 10px 8px;
+	}
+	#admin-slider-container {
+	    height: 335px;
+	}
+	#admin-slider .swiper-slide .content h1 {
+	    font-size:25px;
+	}
+	#admin-slider .swiper-slide .content {
+	    padding: 0px 90px;
+	}
+	.btn1 {
+	    font-size: 13px;
+	    padding: 6px 15px;
+	}
+	.admin-galleries-photo .photo {
+	    height:180px;
+	}
+	.admin-galleries-photo {
+	    margin-top: 0px;
+	}
+	#orders-nav {
+	    position: fixed;
+	    top: 15%;
+	    -webkit-transform: translateY(-55%);
+	    -ms-transform: translateY(-55%);
+	    -o-transform: translateY(-55%);
+	    transform: translateY(-15%);
+	    right: 30px;
+	}
+	#messages .message p {
+	    font-weight: 500;
+	    font-size: 15px;
+	}
+}
+@media (min-width:0px) and (max-width:767px){
+	.navbar {
+	    z-index: 20000;
+	}
+	.navbar-toggle .icon-bar {
+	    background: #000;
+	}
+	.right-nav {
+	    position: absolute;
+	    top: 0px;
+	    right:75px;
+	 }
+	 .navbar .nav {
+	 	padding-top: 10px;
+	    position:relative;
+	    top: -1px;
+	    left:0px;
+	    width: 100%;
+	    transform:unset;
+	    text-align: center;
+	    background-color: #fff;
+	}
+	.navbar .nav li{
+		display: block;
+	}
+	.navbar .nav li a {
+		font-weight: 400;
+	    padding: 10px 14px;
+	    font-size: 16px;
+	}
+	.navbar .nav li a.active{
+		font-weight: 400;
+	    padding:12px 14px;
+	    font-size: 16px;
+	}
+	.navbar .container .navbar-header{
+		padding: 0px 30px;
+	}
+	.navbar .container {
+	    padding: 0px;
+	}
+	.navbar .nav li .subul {
+	    position: relative;
+	    top: 0px;
+	    width: 180px;
+	    z-index: 1000;
+	}
+	.stats .section ul li h2 {
+	    font-weight: 500;
+	    color: #000;
+	    font-size: 14px;
+	}
+	.stats .section ul li p {
+	    font-size:25px;
+	}
+	.swiper-button-next{
+	    right: 10px;
+	    background-image: url(../img/next.png);
+	    background-size: 20px 20px !important;
+	}
+	.swiper-button-prev{
+	    left: 10px;
+	    background-image: url(../img/prev.png);
+	    background-size: 20px 20px !important;
+	}
+	#admin-slider .swiper-slide .content {
+	    padding: 0px 40px;
+	}
+	.admin-galleries-photo .photo {
+	    height: 240px;
+	}
+	.admin-edit {
+	    z-index:1000;
+	}
+	#siteDetails {
+	    padding: 10px;
+	}
+	.detailsDiv h2 {
+	    font-size: 19px;
+	}
+	.detailsDiv ul li p {
+	    font-size:15px;
+	}
+	.table {
+		overflow:hidden;
+	   width: 700px;
+	   margin: 0px auto;
+	}
+	#dish-items{
+		overflow:hidden;
+		overflow-x: auto;
+	}
+	.orders {
+		overflow:hidden;
+	   padding: 0px 10px;
+	   overflow-x: auto;
+	}
+	.table-row {
+	   padding: 15px 5px;
+	   overflow-x: auto;
+	}
+	.view-invoice {
+	    padding: 30px 10px;
+	    overflow:hidden;
+	    overflow-x: auto;
+	}
+	.invoice .table{
+		width: 100%;
+	}
+}
+@media (min-width:0px) and (max-width:600px){}
+@media (min-width:0px) and (max-width:500px){
+	#admin-signin {
+	    padding:60px 0px 20px;
+	}
+	#admin-signin .signin-form {
+	    width:85%;
+	}
+	#admin-signin .signin-form .login-logo {
+	    width: 120px;
+	}
+}
+@media (min-width:0px) and (max-width:430px){
+	#admin-signin {
+	    padding:40px 0px 20px;
+	}
+	#admin-signin .signin-form {
+	    width: 95%;
+	    padding:40px;
+	}
+	#admin-signin .signin-form .login-logo {
+	    width:100px;
+	}
+}
+@media (min-width:0px) and (max-width:375px){
+	#admin-signin .signin-form {
+	    width:100%;
+	    padding:30px;
+	}
+	#admin-signin .signin-form .login-logo {
+	    width:90px;
+	}
+}
+@media (min-width:0px) and (max-width:360px){}
+@media (min-width:0px) and (max-width:320px){}
